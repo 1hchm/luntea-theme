@@ -1,0 +1,35 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "luntea-product",
+      "blocks": {
+        "benefit_1": { "type": "benefit", "settings": { "icon": "❤️", "title": "Heart-healthy ritual", "text": "Hibiscus is one of the most studied herbal teas for supporting healthy blood pressure levels already in the normal range.*" } },
+        "benefit_2": { "type": "benefit", "settings": { "icon": "🫐", "title": "Antioxidant rich", "text": "That deep ruby color comes from anthocyanins, the same plant compounds found in berries." } },
+        "benefit_3": { "type": "benefit", "settings": { "icon": "🌙", "title": "Caffeine free", "text": "No jitters and no afternoon crash. Enjoy a cup at night without losing sleep." } },
+        "benefit_4": { "type": "benefit", "settings": { "icon": "🌿", "title": "Certified organic", "text": "USDA Organic hibiscus with no added sugar, flavors or fillers. Just the flower." } },
+        "step_1": { "type": "step", "settings": { "title": "Steep", "text": "One bag in 8 oz of freshly boiled water." } },
+        "step_2": { "type": "step", "settings": { "title": "Wait 5 minutes", "text": "Longer for a bolder, tarter cup. You can't really over-steep it." } },
+        "step_3": { "type": "step", "settings": { "title": "Enjoy, hot or iced", "text": "Add honey or lemon if you like. Pour over ice for a summer cooler." } },
+        "step_4": { "type": "step", "settings": { "title": "Make it daily", "text": "Most people make it part of their morning, afternoon and evening routine." } },
+        "faq_1": { "type": "faq", "settings": { "question": "What does hibiscus tea taste like?", "answer": "<p>Tart and fruity, a lot like cranberry. It's naturally caffeine free and has no added sugar, so sweeten it however you like.</p>" } },
+        "faq_2": { "type": "faq", "settings": { "question": "How many cups should I drink?", "answer": "<p>Many people enjoy two to three cups a day. The Tufts study used three cups a day for six weeks. One pouch of 60 bags lasts about 20 days at three cups a day, or two months at one cup a day.</p>" } },
+        "faq_3": { "type": "faq", "settings": { "question": "Can I drink it if I take blood pressure medication?", "answer": "<p>Talk to your doctor first. Hibiscus can add to the effect of some blood pressure and diuretic medications. Avoid it during pregnancy unless your doctor says otherwise.</p>" } },
+        "faq_4": { "type": "faq", "settings": { "question": "Is it really organic?", "answer": "<p>Yes. LunTea Hibiscus is certified USDA Organic.</p>" } },
+        "faq_5": { "type": "faq", "settings": { "question": "How does Subscribe & Save work?", "answer": "<p>You save on every pouch and get a fresh one delivered on your schedule. Skip, change or cancel anytime from your account. No commitment.</p>" } },
+        "faq_6": { "type": "faq", "settings": { "question": "What if I don't like it?", "answer": "<p>Every first order is covered by our money-back guarantee. If it's not for you, email us at contact@luntea.com and we'll make it right.</p>" } }
+      },
+      "block_order": ["benefit_1", "benefit_2", "benefit_3", "benefit_4", "step_1", "step_2", "step_3", "step_4", "faq_1", "faq_2", "faq_3", "faq_4", "faq_5", "faq_6"],
+      "settings": {}
+    }
+  },
+  "order": ["main"]
+}
